@@ -27,6 +27,7 @@ Mediante el uso del metodo gotoxy se imprimen las cadenas de caracteres en las d
 
 #==================================================================================#
 
+
 Resultado Final.
 Se pide los datos del primer alumno.
 
