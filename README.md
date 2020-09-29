@@ -1,6 +1,7 @@
 # Ejemplo-TDA-Basico
 Utilizando el IDE DEV-C++, pusimos a prueba nuestros conocimientos de los tipos de datos abstractos.
 
+
 Se crea una estructura tipo alumno donde se le asignan los sus datos correspondiente, asignandole una variable en forma de arreglo con dos espacios
 
 ![4](https://user-images.githubusercontent.com/71307223/94512401-912f5600-01e1-11eb-9899-fc620d334e45.png)
