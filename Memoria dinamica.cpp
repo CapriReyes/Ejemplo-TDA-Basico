@@ -93,6 +93,7 @@ int main(){
 	free(alum->p_domicilio);
 	free(alum->p_carrera);
 	free(alum->p_nC);
+	system("pause")
 	return 1;
 }
 
