@@ -2,6 +2,7 @@
 Utilizando el IDE DEV-C++, pusimos a prueba nuestros conocimientos de los tipos de datos abstractos.
 
 
+
 Se crea una estructura tipo alumno donde se le asignan los sus datos correspondiente, asignandole una variable en forma de arreglo con dos espacios
 
 ![4](https://user-images.githubusercontent.com/71307223/94512401-912f5600-01e1-11eb-9899-fc620d334e45.png)
@@ -13,6 +14,8 @@ En el metodo Main , creamos un ciclo for para ir solicitando los datos de cada a
 Se imprime el tamaño de la cadena de caracteres y se cambia de una variable estatica a una variable dinamica con el tamaño de cada cadena de caracteres.
 
 ![6](https://user-images.githubusercontent.com/71307223/94512410-92f91980-01e1-11eb-89e3-73f8bf8c9eda.png)
+
+
 
 Se imprimen los datos introducidos por el usuario en forma de lista.
 
